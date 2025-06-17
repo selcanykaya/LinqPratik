@@ -1,1 +1,1 @@
-# LinqPratik
+Rastgele 10 adet sayı üretip bir liste oluşturdum. Bu liste üzerinden sırasıyla linq işlemleri yapılmıştır ; çift sayılar, tek sayılar, negatif sayılar, pozitif sayılar, 15'ten büyük ve 22'den küçük sayılar ve son olarak sayıların karesi.
